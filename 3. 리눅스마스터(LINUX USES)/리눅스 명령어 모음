@@ -39,6 +39,8 @@ man 페이지 설명에서 지정한 키워드를 포함하고 있는 명령어
 ex) apropos system | grep ^system
 
 
+
+
 < 사용자 생성 명령어 >
 * useradd [옵션] [계정명]
 계정을 생성하는 명령어 =adduser
@@ -93,6 +95,8 @@ ex) apropos system | grep ^system
 
 
 
+
+
 < 사용자 조회 명령어 >
 * users [옵션]
 시스템에 로그인한 사용자의 정보를 출력하는 명령어
@@ -111,6 +115,7 @@ ex) apropos system | grep ^system
 * groups [계정명]
 사용자 계정이 속한 그룹 목록을 확인하는 명령어
 2) 디렉터리 및 파일
+
 
 
 
@@ -135,6 +140,7 @@ ex) apropos system | grep ^system
 = remove directory
 디렉터리만 삭제하는 명령어
 디렉터리 안에 파일이 존재하는 경우 삭제 x
+
 
 
 
@@ -168,6 +174,8 @@ l : 퍼미션, 크기, 사이즈 등의 자세한 정보 표시
 
 * locate [파일명]
 파일의 위치를 찾는 명령어
+
+
 
 
 
@@ -215,6 +223,7 @@ ex) grep '^[ab]' config
 
 
 
+
 < 파일 비교 명령어 >
 * diff [옵션] [파일명1] [파일명2] or diff [옵션] [디렉터리1] [디렉터리2]
 두 개의 파일을 행 단위로 비교하여 다른 부분을 출력하는 명령어
@@ -258,6 +267,7 @@ ex) grep '^[ab]' config
 
 * route
 호스트의 라우팅 테이블을 확인하는 명령어
+
 
 
 
