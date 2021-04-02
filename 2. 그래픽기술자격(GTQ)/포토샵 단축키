@@ -1,0 +1,105 @@
+Ctrl + N : 새로 만들기
+
+Ctrl + O : 열기
+
+Ctrl + W : 닫기
+
+Ctrl + A + W : 모두 닫기
+
+Ctrl + S : 저장하기
+
+Ctrl + Shift + S : 다른 이름으로 저장
+
+Ctrl + P : 인쇄하기
+
+Ctrl + Q : 종료
+
+F12 : 초기 상태로 되돌리기
+
+Ctrl + (+) : 확대
+
+Ctrl + (-) : 축소
+
+Ctrl + O : 화면 크기에 맞게 조정
+
+Shift : 자율 변형
+
+Ctrl + Shift + T : 반복 변형
+
+Ctrl + I : 반전
+
+Ctrl + H : 모든 표시선 보이기/감추기
+
+Ctrl + R : 눈금자 표시
+
+F : 화면 모드 변경
+
+Ctrl + A : 모두 선택
+
+Ctrl + Alt + A : 모든 레이어 선택
+
+Ctrl + Shift + O : 선택 영역 다듬기Ctrl + D : 선택 영역 취소
+
+Ctrl + Shift + D : 이전 선택 영역
+
+Ctrl + Shift + I : 선택 영역 반전
+
+Ctrl + Y : 색 교정
+
+Tab : 도구 상자
+
+Shift + Tab : 팔레트
+
+Ctrl + Z : 작업 취소
+
+Ctrl + Shift + Z : 이전 단계 되돌리기
+
+Ctrl + X : 이미지 자르기
+
+Ctrl + Shift + V : 선택 영역에 붙여넣기
+
+Ctrl + C : 복사하기
+
+Ctrl + V : 붙여넣기
+
+Ctrl + Alt + I : 이미지 크기 조절
+
+Ctrl + Alt + C : 캔버스 크기 조절
+
+Ctrl + Shift + K : 색 설정
+
+Shift + F5 : 이미지에 칠하기
+
+Ctrl + K : 환경 설정
+
+Ctrl + L : 색 레벨
+
+Ctrl + M : 곡선 색상 조절
+
+Ctrl + U : 색조와 채도 조절
+
+Ctrl + Shift + U : 이미지 흑백
+
+Ctrl + I : 색상 반전
+
+Ctrl + Shift + L : 자동 톤 조절
+
+Ctrl + Alt + Shift + L : 자동 색 대비 조정
+
+Ctrl + B : 색상 균형
+
+Ctrl + Shift + B : 자동 색상 조정
+
+Ctrl + Alt + Shift + B : 블랙 & 화이트 열기
+
+Ctrl + Shift + N : 새 레이어 만들기
+
+Ctrl + J : 레이어 복사
+
+Ctrl + G : 레이어를 그룹으로 만들기
+
+Ctrl + Shift + G : 레이어 그룹 해제
+
+Ctrl + E : 레이어 병합
+
+Ctrl + Alt + G : 클리핑 마스크 만들기
