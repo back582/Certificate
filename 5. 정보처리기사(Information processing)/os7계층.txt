@@ -1,20 +1,18 @@
-# OS7 계층
+OS7 계층
 
+ 계층이름      데이터단위       관련장비                      관련프로토콜
 
+7 응용계층       메시지                                     HTTP, SMTP, IMAP, POP, SNMP, FTP, TELNET, SSH
 
-### 계층이름     데이터단위      관련장비
+6 표현계층       메시지                                     SMB, AFP, XDR
 
-7 응용계층       메시지
+5 세션계층       메시지                                     netBIOS
 
-6 표현계층       메시지
+4 전송계층      세그먼트     게이트웨이                       TCP, UDP, SPX, SCTP, DCCP
 
-5 세션계층       메시지
+3 네트워크계층    패킷       라우터, 멀티레이어 스위치         IP, ICMP, IGMP, X.25, CLNP, ARP, RARP, BGP, OSPF, RIP, IPX, DDP
 
-4 전송계층      세그먼트
+2 데이터링크계층 프레임      브리지, 스위치                   이더넷, 토큰링, PPP, HDLC, FDDI, ATM, 무선랜
 
-3 네트워크계층     패킷
-
-2 데이터링크계층  프레임
-
-1 물리계층     비트
+1 물리계층       비트       리피터, 허브                     PSTN, DSU, CSU
 
