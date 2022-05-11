@@ -4,7 +4,7 @@
 
 ### 계층이름 &nbsp;&nbsp;&nbsp;&nbsp;  데이터단위  &nbsp;&nbsp;&nbsp;&nbsp; 관련장비
 
-7 응용계층 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 메시지
+7 응용계층 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    메시지
 
 6 표현계층 &nbsp;&nbsp;&nbsp;&nbsp; 메시지
 
